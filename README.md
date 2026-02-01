@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I’m currently learning Data Science stack and I started from GitHub!!
+
 <!--
 **meAlehan/meAlehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
